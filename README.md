@@ -1,3 +1,8 @@
+Installation Guide:
+fork the project and pull into your local machine
+to install run the following commands:
+-pip install -r requirements.txt
+
 Steps:
 => Create the main folder-> carry the project
    => create virtual env for the python project like node_module in Js
