@@ -1,7 +1,11 @@
 Installation Guide:
-fork the project and pull into your local machine
-to install run the following commands:
--pip install -r requirements.txt
+**INSTALLATION STEPS**
+ 1. Clone the repositor to your machine using command below <br>
+    <code> git clone ...... </code>
+    
+ 2. Install project depencies <br>
+    
+    <code>pip install -r requirements.txt </code>
 
 Steps:
 => Create the main folder-> carry the project
