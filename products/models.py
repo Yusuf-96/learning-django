@@ -19,11 +19,6 @@ class Products(models.Model):
         return f"{self.price}"
 
 
-class OrderItem(models.Model):
-    pass
 
-
-class Order(models.Model):
-    pass
 
 
