@@ -5,16 +5,6 @@ from .models import Order, OrderItem
 from products.models import Products
 from django.db import transaction
 
-# How order Items/Product
-"""
->> Get the product(getById)
->> Add product in orderItem
-       - is that available in stock(5)
-       - How many item (4)
-       - deducting product stock
->> Order it.
-"""
-
 
 class OrderItemSerializer(serializers.ModelSerializer):
     class Meta:

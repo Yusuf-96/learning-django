@@ -18,5 +18,5 @@ Steps:
 
    => Initialize the django project: command >> django-admin startproject <project_name> (optional (.)-> to initialize on the existing or current dir).
 
-   => Create an app or module; command >>> python3 manage.py startapp <app_name>. example python3 manage.py startapp firts
+   => Create an app or module; command >>> python3 manage.py startapp <app_name>. example python3 manage.py startapp first
 
